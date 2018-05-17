@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  StringParsing
 //
-//  Created by Pranoti Kulkarni on 5/17/18.
-//  Copyright © 2018 Pranoti Kulkarni. All rights reserved.
+//  Created by Pranoti R on 5/17/18.
+//  Copyright © 2018 Pranoti R. All rights reserved.
 //
 
 import UIKit
